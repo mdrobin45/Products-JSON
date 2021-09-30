@@ -1,0 +1,250 @@
+[
+    {
+        "name": "Apple – Watch Series 3 with White Sport Band",
+        "category": [
+            "Accessories",
+            "Smartwatches"
+        ],
+        "price": "214.99",
+        "rating": 4.7,
+        "totalRate": 39,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135384727-9ff86009-f426-4501-8e74-88ac1b1d7315.jpg"
+    },
+    {
+        "name": "Microsoft – Refurbish Xbox One S 500GB",
+        "category": [
+            "Accessories",
+            "Smartwatches"
+        ],
+        "price": "279.99",
+        "rating": 5,
+        "totalRate": 19,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135384746-d3b8089a-d7dd-43a0-b778-4d8e1f52d2ff.jpg"
+    },
+    {
+        "name": "Sony – Alpha a5100 Mirrorless Camera",
+        "category": [
+            "Accessories",
+            "Smartwatches"
+        ],
+        "price": "499.99",
+        "rating": 4.3,
+        "totalRate": 25,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135384744-9810b9f1-0de8-406a-9ed8-1003d8ff06e8.jpg"
+    },
+    {
+        "name": "Canon – EOS 5D Mark IV DSLR Camera",
+        "category": [
+            "Accessories",
+            "Smartwatches"
+        ],
+        "price": "359.99",
+        "rating": 4,
+        "totalRate": 29,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135384743-558a5faf-361d-4659-9703-b65c18747d35.jpg"
+    },
+    {
+        "name": "Google – Pixel 6.2-Inch 3 XL 128GB",
+        "category": [
+            "Accessories",
+            "Smartwatches"
+        ],
+        "price": "40",
+        "rating": 3.9,
+        "totalRate": 49,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135384740-bf6c48e1-e07d-47d6-b2d4-7026e2d32c2b.jpg"
+    },
+    {
+        "name": "Apple Watch Series 4 Gold Aluminum Case",
+        "category": [
+            "Accessories",
+            "Smartwatches"
+        ],
+        "price": "300.99",
+        "rating": 2.5,
+        "totalRate": 73,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135384739-fc29bbad-fb38-409f-a405-277918869fc8.jpg"
+    },
+    {
+        "name": "Block Side Table/Trolley",
+        "category": [
+            "Coffee & Tables",
+            "Furniture",
+            "Tables"
+        ],
+        "price": "210.00",
+        "rating": 4.2,
+        "totalRate": 65,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135386392-01f04b1f-66b8-4b0a-b74c-5eeb0d712cc8.jpg"
+    },
+    {
+        "name": "Butler Stool Ladder",
+        "category": [
+            "Coffee & Tables",
+            "Furniture",
+            "Tables"
+        ],
+        "price": "20",
+        "rating": 4,
+        "totalRate": 2,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135386385-7b3a186a-a548-47c2-803e-9873aa61f293.jpg"
+    },
+    {
+        "name": "Can 2-Seater Sofa",
+        "category": [
+            "Coffee & Tables",
+            "Furniture",
+            "Tables"
+        ],
+        "price": "60",
+        "rating": 5,
+        "totalRate": 20,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135386383-d034cf72-3a5a-4f03-9085-553dfe9eef61.jpg"
+    },
+    {
+        "name": "Roots Sofa Bed",
+        "category": [
+            "Coffee & Tables",
+            "Furniture",
+            "Tables"
+        ],
+        "price": "449.99",
+        "rating": 2,
+        "totalRate": 6,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135386380-ba45c810-0e75-486d-b7f9-4c689a5b3b8d.jpg"
+    },
+    {
+        "name": "Carronade Table Lamp",
+        "category": [
+            "Coffee & Tables",
+            "Furniture",
+            "Tables"
+        ],
+        "price": "110.99",
+        "rating": 5,
+        "totalRate": 10,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135386378-e21579f4-52d4-42f6-ba82-e1a42f5eaece.jpg"
+    },
+    {
+        "name": "DEWALT DWASHRIR",
+        "category": [
+            "HAND TOOLS",
+            "POWER TOOLS",
+            "COMPRESSORS"
+        ],
+        "price": "110.99",
+        "rating": 4,
+        "totalRate": 38,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135387500-01d332a6-db26-49d1-9978-1d8296b9be58.jpg"
+    },
+    {
+        "name": "DEWALT HAMMER DRILL",
+        "category": [
+            "HAND TOOLS",
+            "POWER TOOLS",
+            "COMPRESSORS"
+        ],
+        "price": "110.99",
+        "rating": "4.5",
+        "totalRate": 20,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135387499-96d1d3a5-cfae-4548-8178-16ca7412bf24.jpg"
+    },
+    {
+        "name": "MAKITA XBU02PT1",
+        "category": [
+            "HAND TOOLS",
+            "POWER TOOLS",
+            "COMPRESSORS"
+        ],
+        "price": "110.99",
+        "rating": "3.29",
+        "totalRate": 67,
+        "status": [
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135387498-06e12fba-7c56-4a6d-980b-7d0257f64ad1.jpg"
+    },
+    {
+        "name": "MAKITA XCV11Z",
+        "category": [
+            "HAND TOOLS",
+            "POWER TOOLS",
+            "COMPRESSORS"
+        ],
+        "price": "110.99",
+        "rating": "4.5",
+        "totalRate": 50,
+        "status": [
+            "Top",
+            "Sale"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135387492-72eb301d-7b84-4480-a9da-cf60e0d6a128.jpg"
+    },
+    {
+        "name": "MILWAUKEE 2648-20",
+        "category": [
+            "HAND TOOLS",
+            "POWER TOOLS",
+            "COMPRESSORS"
+        ],
+        "price": "110.99",
+        "rating": "5.85",
+        "totalRate": 26,
+        "status": [
+            "Top"
+        ],
+        "image": "https://user-images.githubusercontent.com/86792644/135387500-01d332a6-db26-49d1-9978-1d8296b9be58.jpg"
+    }
+]
